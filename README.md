@@ -26,7 +26,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New](certificate.jpg)
+![New](https://github.com/Priyadharshan2003/JP-Morgan-VI/blob/3738c64483454796e3fd8baab1d053eba533bdb6/certificate.jpg)
 
 
 
